@@ -30,10 +30,12 @@ All tables are connected using foreign key relationships to maintain data integr
 - Relational Database Design
 
 ## 📂 Project Structure
+'''
 Library-Management-System-SQL/
 │
 ├── library_management_system.sql
 └── README.md
+'''
 
 ## ▶️ How to Run
 1. Open MySQL Workbench or any SQL tool  
